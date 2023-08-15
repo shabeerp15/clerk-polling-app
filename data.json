@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "Who is your favourite football player?",
+        "options": [
+            "messi",
+            "ronaldo",
+            "neymar",
+            "mbappe"
+        ]
+    },
+    {
+        "id": 1,
+        "question": "Who is your favourite cricket player?",
+        "options": [
+            "kohli",
+            "dhoni",
+            "sachin",
+            "yuvraj"
+        ]
+    }
+]
